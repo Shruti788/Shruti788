@@ -1,5 +1,6 @@
+<div align="left">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/banner(3).png" width="70%">
+  <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/banner.png" width="80%">
 </p>
 
 
@@ -33,6 +34,8 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,mysql,git,github,vscode)
 
 <br>
-<br>
+
+# With Love from Mumbai ❤️
+</div>
 
 
