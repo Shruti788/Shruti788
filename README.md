@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/Shruti%20Yadav.png" width="70%">
 </p>
 
+
+नमस्ते 🙏 • नमस्कार 🌸 • Hello 👋 • Bonjour ✨ • Hola 🚀
+
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1200&color=4A90E2&center=false&vCenter=true&width=900&lines=Hi%2C+I'm+Shruti+%F0%9F%91%8B;Namaste%2C+I'm+Shruti+%F0%9F%91%8B;Bonjour%2C+je+suis+Shruti+%F0%9F%91%8B;Hola%2C+soy+Shruti+%F0%9F%91%8B;Hallo%2C+ich+bin+Shruti+%F0%9F%91%8B" />
 
 🎓 Electronics & Telecommunication Engineering Graduate
