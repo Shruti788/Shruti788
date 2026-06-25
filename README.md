@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/Shruti%20Yadav.png" width="70%">
+  <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/banner(3).png" width="70%">
 </p>
 
 
