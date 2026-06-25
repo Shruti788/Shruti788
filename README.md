@@ -17,6 +17,14 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 
 🚀 Always learning. Always building.
 
+<br>
+
+## 🌱 Currently Learning
+
+- Python
+- SQL
+- Backend Development
+- Data Structures & Algorithms
 
 <br>
 
