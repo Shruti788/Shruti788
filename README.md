@@ -39,11 +39,11 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 
 Telecommunications taught me how information travels.
 Backend development teaches me what happens after it arrives.
-I enjoy understanding systems end-to-end—from signals and networks to APIs, databases, and scalable applications.
+I enjoy understanding systems end-to-end from signals and networks to APIs, databases, and scalable applications.
 
 ## Building software from the city that never sleeps
 <p align="left">
-  <img src="assets/mumbai.png" width="90%">
+  <img src="assets/mumbai.png" width="100%">
 </p>
 </div>
 
