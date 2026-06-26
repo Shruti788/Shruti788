@@ -30,7 +30,7 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 <br>
 
 <p align="center">
-  <img src="assets/antenna.gif" width="100">
+  <img src="assets/Cat_animation.gif" width="100">
 </p>
 
 ## 📡 How I Build
