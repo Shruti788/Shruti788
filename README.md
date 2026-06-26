@@ -37,9 +37,15 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 
 ## 📡 How I Build
 
-Telecommunications taught me how information travels.
-Backend development teaches me what happens after it arrives.
-I enjoy understanding systems end-to-end from signals and networks to APIs, databases, and scalable applications.
+My journey started with understanding how signals travel.
+
+Today, I'm learning how software receives, processes, stores, and delivers information at scale.
+
+From networks and databases to backend systems, I enjoy building solutions that turn curiosity into working software.
+
+<p align="center">
+  <img src="assets/Scene.gif" width="800">
+</p>
 
 ## Building software from the city that never sleeps
 <p align="left">
