@@ -29,6 +29,24 @@ Currently learning and building with Python, SQL, Node.js, Express.js, and Mongo
 
 <br>
 
+<p align="center">
+  <img src="assets/antenna.gif" width="100">
+</p>
+
+## 📡 How I Build
+
+My journey started with understanding how signals travel.
+
+Today, I'm learning how software receives, processes, stores, and delivers information at scale.
+
+From networks and databases to backend systems, I enjoy building solutions that turn curiosity into working software.
+
+<p align="center">
+  <img src="assets/Scene.gif" width="800">
+</p>
+
+<br>
+
 ## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,mysql,git,github,vscode)
