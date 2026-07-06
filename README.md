@@ -67,4 +67,6 @@ And if I ever seem too deep in thought, a well-timed joke is always welcome. ðŸ˜
 </p>
 </div>
 
-
+<p align="center">
+  <img src="assets/car-race.gif" alt="Car Race Animation" width="700">
+</p>
