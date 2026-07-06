@@ -59,6 +59,10 @@ From networks and databases to backend systems, I enjoy building solutions that 
 My engineering background taught me to look at systems as connected pieces rather than isolated problems. I naturally gravitate toward understanding how things communicate, how information flows, and how small components come together to create something meaningful. 📡➡️💻
 And if I ever seem too deep in thought, a well-timed joke is always welcome. 😄
 
+<p align="center">
+  <img src="assets/Dino-game.gif" alt="Car Race Animation" width="1000" height="250">
+</p>
+
 <br>
 
 ## Building software from the city that never sleeps
@@ -67,6 +71,4 @@ And if I ever seem too deep in thought, a well-timed joke is always welcome. �
 </p>
 </div>
 
-<p align="center">
-  <img src="assets/car-race.gif" alt="Car Race Animation" width="700">
-</p>
+
