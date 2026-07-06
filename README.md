@@ -17,6 +17,10 @@ This profile is a collection of my projects, experiments, and learning journey a
 
 <br>
 
+<p align="center">
+  <img src="assets/divider.png" width="100%">
+</p>
+
 ## 🌱 Currently Learning
 
 - Python
@@ -36,16 +40,24 @@ From networks and databases to backend systems, I enjoy building solutions that 
 
 <br>
 
+<details>
+<summary><b>🛠️ My Tech Stack</b></summary>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/teck-stack_lpettp"
+    width="900"
+    alt="Tech Stack">
+</p>
+
+</details>
+
 ## 💭 How I work
 
 My engineering background taught me to look at systems as connected pieces rather than isolated problems. I naturally gravitate toward understanding how things communicate, how information flows, and how small components come together to create something meaningful. 📡➡️💻
 And if I ever seem too deep in thought, a well-timed joke is always welcome. 😄
-
-<br>
-
-## 🛠️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,mysql,git,github,vscode)
 
 <br>
 
