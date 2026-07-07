@@ -20,7 +20,7 @@ This profile is a collection of my projects, experiments, and learning journey a
 
 <br>
 
-<img src="assets/lets-connect-final.png" alt="Activity" width="450px"/>
+<img src="assets/lets-connect-final.png" alt="Activity" width="370px"/>
 
 <table><tr><td valign="top" width="18%">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
