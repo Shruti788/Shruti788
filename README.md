@@ -12,22 +12,6 @@ This profile is a collection of my projects, experiments, and learning journey a
 
 🚀 Always learning. Always building.
 
-<details>
-<summary><b>🛠️ My Tech Stack</b></summary>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/teck-stack_lpettp"
-    width="900"
-    alt="Tech Stack">
-</p>
-
-</details>
-
-
-
 <br>
 
 <p align="center">
@@ -36,7 +20,7 @@ This profile is a collection of my projects, experiments, and learning journey a
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
+<img src="assets/lets-connect-final.png" alt="Activity" width="450px"/>
 
 <table><tr><td valign="top" width="18%">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -44,7 +28,7 @@ This profile is a collection of my projects, experiments, and learning journey a
 </a>
 </td>
 <td valign="top" width="18%">
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:shrutiycs78@gmail.com">
 <img src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/contact-me-card_or1emn" width="413px">
 </a>
 </td>
@@ -60,16 +44,8 @@ My journey started with understanding how signals travel.
 Today I'm learning how software receives, processes, stores, and delivers information at scale.
 From networks and databases to backend systems, I enjoy building solutions that turn curiosity into working software.
 
-<br>
-
-<p align="left">
-  <img src="assets/technologies-heading.png" width="50%">
-</p>
-
-<br>
-
 <details>
-<summary><b>🛠️ My Tech Stack</b></summary>
+<summary><b>💻 Click to explore the toolkit I use to turn ideas into software</b></summary>
 
 <br>
 
@@ -82,14 +58,15 @@ From networks and databases to backend systems, I enjoy building solutions that 
 
 </details>
 
+<p align="center">
+  <img src="assets/Loading.gif" alt="Loading" width="300">
+</p>  
+
+
 ## 💭 How I work
 
 My engineering background taught me to look at systems as connected pieces rather than isolated problems. I naturally gravitate toward understanding how things communicate, how information flows, and how small components come together to create something meaningful. 📡➡️💻
 And if I ever seem too deep in thought, a well-timed joke is always welcome. 😄
-
-<p align="center">
-  <img src="assets/Loading.gif" alt="Car Race Animation" width="300">
-</p>
 
 <br>
 
@@ -98,11 +75,3 @@ And if I ever seem too deep in thought, a well-timed joke is always welcome. �
   <img src="assets/mumbai.png" width="100%">
 </p>
 </div>
-
-
-https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/linkedn_rr211m
-
-https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/email_lvlvqm
-
-https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/linkedn_d9effm
-## 🌱 Currently Learning
