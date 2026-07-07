@@ -62,6 +62,12 @@ From networks and databases to backend systems, I enjoy building solutions that 
 
 <br>
 
+<p align="left">
+  <img src="assets/technologies-heading.png" width="50%">
+</p>
+
+<br>
+
 <details>
 <summary><b>🛠️ My Tech Stack</b></summary>
 
