@@ -3,9 +3,6 @@
   <img src="https://raw.githubusercontent.com/Shruti788/Shruti788/main/assets/banner.png" width="80%">
 </p>
 
-
-नमस्ते 🙏 • नमस्कार 🌸 • Hello 👋 • Bonjour ✨ • Hola 🚀
-
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1200&color=4A90E2&center=false&vCenter=true&width=900&lines=Hi%2C+I'm+Shruti+%F0%9F%91%8B;Namaste%2C+I'm+Shruti+%F0%9F%91%8B;Bonjour%2C+je+suis+Shruti+%F0%9F%91%8B;Hola%2C+soy+Shruti+%F0%9F%91%8B;Hallo%2C+ich+bin+Shruti+%F0%9F%91%8B" />
 
 Welcome to my little corner of GitHub!
@@ -15,18 +12,43 @@ This profile is a collection of my projects, experiments, and learning journey a
 
 🚀 Always learning. Always building.
 
+<details>
+<summary><b>🛠️ My Tech Stack</b></summary>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/teck-stack_lpettp"
+    width="900"
+    alt="Tech Stack">
+</p>
+
+</details>
+
+
+
 <br>
 
 <p align="center">
   <img src="assets/divider.png" width="100%">
 </p>
 
-## 🌱 Currently Learning
+<br>
 
-- Python
-- SQL
-- Backend Development
-- Data Structures & Algorithms
+<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
+
+<table><tr><td valign="top" width="18%">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/linkedin-card_wzihwh" width="413px">
+</a>
+</td>
+<td valign="top" width="18%">
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/contact-me-card_or1emn" width="413px">
+</a>
+</td>
+</tr></table>
 
 <p align="center">
   <img src="assets/Cat_animation.gif" width="100">
@@ -60,7 +82,7 @@ My engineering background taught me to look at systems as connected pieces rathe
 And if I ever seem too deep in thought, a well-timed joke is always welcome. 😄
 
 <p align="center">
-  <img src="assets/Loading.gif" alt="Car Race Animation" width="700">
+  <img src="assets/Loading.gif" alt="Car Race Animation" width="300">
 </p>
 
 <br>
@@ -72,3 +94,9 @@ And if I ever seem too deep in thought, a well-timed joke is always welcome. �
 </div>
 
 
+https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/linkedn_rr211m
+
+https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/email_lvlvqm
+
+https://res.cloudinary.com/lwop2rb5/image/upload/f_auto,q_auto/linkedn_d9effm
+## 🌱 Currently Learning
