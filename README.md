@@ -60,7 +60,7 @@ My engineering background taught me to look at systems as connected pieces rathe
 And if I ever seem too deep in thought, a well-timed joke is always welcome. 😄
 
 <p align="center">
-  <img src="assets/dinosaur.gif" alt="Car Race Animation" width="1000" height="200">
+  <img src="assets/Loading.gif" alt="Car Race Animation" width="700">
 </p>
 
 <br>
