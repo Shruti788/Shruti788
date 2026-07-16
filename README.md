@@ -10,8 +10,6 @@ I'm an Electronics & Telecommunication Engineering graduate who enjoys learning,
 My fascination with communication systems sparked an interest in understanding how information moves across networks. That curiosity gradually led me into the world of software, where I'm now exploring backend development, databases, and scalable systems.
 This profile is a collection of my projects, experiments, and learning journey as I continue growing as a developer one project, one challenge, and one lesson at a time.
 
-🚀 Always learning. Always building.
-
 <br>
 
 <p align="center">
